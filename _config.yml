@@ -1,7 +1,7 @@
 name: True Clouds
 favicon: null
-layout_spectrum: 0.97551
-typography_spectrum: 0.6750497429165989
+layout_spectrum: 0.3344791205599904
+typography_spectrum: 0.576259397668764
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#009ede'
-    - '#008080'
-    - '#0080ff'
-    - '#0080bf'
-    - '#0000ff'
-  brandStrength: 0.3519086427986622
-  lightness: 0.42391875199973583
-  saturation: 0.10356927569955587
-  rhythmicContrast: 0.49568886356428266
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.8464995492249727
+  lightness: 0.49190266733057797
+  saturation: 0.14630750799551606
+  rhythmicContrast: 0.9472311642020941
 purpose: []
