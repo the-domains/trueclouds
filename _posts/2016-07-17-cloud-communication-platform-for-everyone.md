@@ -1,7 +1,7 @@
 ---
 description: Cloud Communication Platform for everyone!
-dateModified: '2016-07-17T07:19:05.226Z'
-datePublished: '2016-07-17T07:24:56.420Z'
+dateModified: '2016-07-17T07:26:26.990Z'
+datePublished: '2016-07-17T07:26:41.736Z'
 title: ''
 author: []
 isBasedOnUrl: >-
